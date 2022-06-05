@@ -27,6 +27,13 @@ form{
 
 div.sbuttons>button{
     display: block;
-    margin: 20px;
+    margin-bottom: 20px;
 }
 
+div.dbuttons>button{
+    
+}
+
+footer{
+    
+}
