@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://deluxe.news/wp-content/uploads/2022/05/1651830635_Path-of-Exile-Sentinel-318-release-date-and-time-780x470.jpg)
+    ;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+p{
+    color: white;
+}
+
+form{
+    color: white;
+    position: relative;
+}
+
+.switches{
+    color: white;
+}
