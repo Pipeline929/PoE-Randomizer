@@ -1,3 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
 h1{
+    height: 15%;
+    width: 100%;
+    text-align: center;
+    clear: both
+}
+
+switches{
+    height: 100px;
+    width: 20%;
+    
+}
+
+display{
+    height: 100px;
+    width: 20%;
+    
+}
+
+btn-side{
+    height: 100px;
+    width: 20%;
     
 }
